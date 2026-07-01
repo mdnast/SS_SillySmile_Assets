@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "anime"
+    },
+    {
+        "id": 2,
+        "name": "double"
+    },
+    {
+        "id": 3,
+        "name": "halloween"
+    },
+    {
+        "id": 4,
+        "name": "nature"
+    },
+    {
+        "id": 5,
+        "name": "noel"
+    },
+    {
+        "id": 6,
+        "name": "smile"
+    },
+    {
+        "id": 7,
+        "name": "abstract"
+    },
+    {
+        "id": 8,
+        "name": "aesthetic"
+    },
+    {
+        "id": 9,
+        "name": "ai"
+    },
+    {
+        "id": 10,
+        "name": "cartoon"
+    },
+    {
+        "id": 11,
+        "name": "cute"
+    },
+    {
+        "id": 12,
+        "name": "meme"
+    },
+    {
+        "id": 13,
+        "name": "motivational"
+    },
+    {
+        "id": 15,
+        "name": "unlock_life"
+    },
+    {
+        "id": 17,
+        "name": "animal"
+    },
+    {
+        "id": 18,
+        "name": "car"
+    },
+    {
+        "id": 19,
+        "name": "dual"
+    },
+    {
+        "id": 20,
+        "name": "emoji"
+    },
+    {
+        "id": 21,
+        "name": "football"
+    },
+    {
+        "id": 22,
+        "name": "neon"
+    }
+]
